@@ -1,0 +1,123 @@
+grocery
+rice,60
+candy,20
+jam,35
+coffee,20
+vinegar,40
+chocolate,25
+sugar,30
+water,30
+juice,40
+milk,10
+soda,15
+nuts,60
+bread,25
+butter,50
+salt,15
+pepper,20
+pasta,35
+yogurt,30
+dairy
+chips,20
+spices,15
+cereal,50
+beans,12
+cake,50
+honey,45
+flour,25
+pasta,35
+tomato sauce,30
+tea,15
+corn,20
+oil,60
+fish,80
+cheese,70
+eggs,40
+yogurt,30
+cream,60
+butter,50
+stationery
+pen,5
+notebook,50
+scale,7
+eraser,4
+sharpener,5
+pencil,3
+marker,12
+highlighter,10
+glue,8
+stapler,25
+tape,15
+scissors,30
+folder,20
+box,100
+tiffin_box,130
+calculator,200
+files,50
+binder,60
+sticky_notes,25
+paper_clips,5
+produce
+apple,10
+banana,5
+carrot,8
+potato,12
+onion,15
+lettuce,20
+broccoli,25
+strawberry,30
+grapes,35
+mango,40
+tomato,12
+cucumber,10
+spinach,18
+bell pepper,22
+orange,10
+beverages
+cola,15
+lemonade,20
+iced tea,18
+mineral water,25
+orange juice,35
+apple juice,30
+energy drink,45
+smoothie,50
+milkshake,40
+beer,60
+wine,100
+whiskey,200
+vodka,150
+rum,180
+gin,170
+bakery
+white bread,20
+brown bread,25
+croissant,30
+muffin,15
+bagel,10
+biscuit,8
+doughnut,12
+cupcake,20
+pie,50
+bread roll,5
+brioche,30
+sourdough,35
+baguette,20
+ciabatta,25
+focaccia,30
+frozen foods
+pizza,80
+ice cream,60
+chicken nuggets,70
+french fries,50
+vegetables,40
+fish sticks,65
+lasagna,90
+spring rolls,55
+frozen yogurt,45
+meatballs,85
+frozen berries,50
+frozen peas,30
+waffles,70
+pancakes,60
+frozen shrimp,100
