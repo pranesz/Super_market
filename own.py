@@ -26,7 +26,7 @@ def send_mail(to_mail, subject, message):
     try:
         s = smtplib.SMTP('smtp.gmail.com',587)
         s.starttls()
-        s.login("praneshpranesh648@gmail.com","qoaa vssn sxoo rptq")
+        s.login("email@gmail.com","password")
         email_message = f"Subjects: {subject}\n\n{message}"
         s.sendmail("praneshpranesh648@gmail.com",to_mail,email_message)
         s.quit()
