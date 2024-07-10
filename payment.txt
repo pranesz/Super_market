@@ -3,7 +3,7 @@ Bill for pranesh
 Items purchased:
 yogurt: 2 x 30 = 60
 
-Total amount: 60
+Total amount: 60.
 Discount (5.0%): -3.0
 Amount after discount: 57.0
 GST (3.0%): +1.71
