@@ -2,6 +2,7 @@ import datetime
 import smtplib
 import random
 
+
 def load_menu_file(filename):
     menu = {}
     current_category = None
